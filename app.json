@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Stretching",
+    "slug": "Stretching",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": ".src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "3b16ed77-4364-4f8a-b462-276fbec7a83f"
+      }
+    },
+    "owner": "gustavo_garcia",
+    "android": {
+      "package": "com.gustavo_garcia.Stretching"
+    }
+  }
+}
